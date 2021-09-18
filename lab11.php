@@ -16,7 +16,7 @@
     echo "The Difference is ".$fno ." and ".$lno." is this ".($fno-$lno)."<br>";
     echo "The Product is ".$fno ." and ".$lno." is this ".($fno*$lno)."<br>";
     echo "The Division is ".$fno ." and ".$lno." is this ".($fno/$lno)."<br>";
-
+    echo var_dump(1>4);
 
 
     ?>
